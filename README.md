@@ -1,2 +1,2 @@
 # Standard-array-sorts
-Bubble sort, Insert sort, Selection sort for a one-dimensional array
+Bubble sort, Insertion sort, Selection sort for a one-dimensional array
